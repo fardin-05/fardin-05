@@ -7,7 +7,7 @@
 I'm a passionate **backend developer** from Bangladesh 🇧🇩 who loves to build scalable and efficient server-side applications.  
 My main tech stack revolves around **Python, Django, and JavaScript** — crafting secure and modern web apps with ease.  
 
-- 🌱 Currently learning  **Django Back-end Developmenmt** Properly
+- 🌱 Currently learning  **Django Back-end Development** Properly
 - 💬 Ask me about **Django, DRF, REST API, Python**
 - ⚡ Fun fact: I debug more than I sleep 😅
 - 📫 How to reach me: **fardinazim7@gmail.com**
