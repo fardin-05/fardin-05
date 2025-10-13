@@ -7,17 +7,16 @@
 I'm a passionate **backend developer** from Bangladesh 🇧🇩 who loves to build scalable and efficient server-side applications.  
 My main tech stack revolves around **Python, Django, and JavaScript** — crafting secure and modern web apps with ease.  
 
-- 🌱 Currently learning **Next.js** and **Cloud Deployment**
+- 🌱 Currently learning  **Django Back-end Developmenmt** Properly
 - 💬 Ask me about **Django, DRF, REST API, Python**
 - ⚡ Fun fact: I debug more than I sleep 😅
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **fardinazim7@gmail.com**
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-link)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardin-ahmed-azim-7726062a9/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fardin.nobita)
 
 ---
 
@@ -53,7 +52,7 @@ My main tech stack revolves around **Python, Django, and JavaScript** — crafti
 ---
 
 ⭐️ From [fardin-05](https://github.com/fardin-05)
-## Hi there 👋
+
 
 <!--
 **fardin-05/fardin-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
