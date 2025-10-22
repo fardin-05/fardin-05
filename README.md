@@ -11,7 +11,7 @@ My main tech stack revolves around **Python, Django, and JavaScript** — crafti
 - 💬 Ask me about **Django, DRF, REST API, Python**
 - ⚡ Fun fact: I debug more than I sleep 😅
 - 📫 How to reach me: **fardinazim7@gmail.com**
-- 💼 My Portfolio : **(https://fardin-05.github.io/)**
+- 💼 My Portfolio : **https://fardin-05.github.io/**
 
 ---
 
