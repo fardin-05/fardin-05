@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/NCbWpWi.png" alt="Fardin Banner" width="60%" style="border-radius: 10px;">
-</p>
-
 <h1 align="center">Hi there, I'm Fardin 👋</h1>
 <h3 align="center">💻 Backend Developer | Django & REST API Enthusiast</h3>
 
