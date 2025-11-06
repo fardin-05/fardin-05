@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Fardin 👋</h1>
 <p align="center">
-  <img src="[https://imgur.com/a/17qR48t](https://imgur.com/NCbWpWi)" alt="Fardin" width="180" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+  <img src="https://i.imgur.com/NCbWpWi.png" alt="Fardin" width="180" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 </p>
 <h3 align="center">💻 Backend Developer | Django & REST API Enthusiast</h3>
 
