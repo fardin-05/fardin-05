@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=230&section=header&text=I'm%20Fardin%20Khan%20👋&fontSize=35&fontColor=ffffff&fontAlignY=40&desc=💻%20Backend%20Developer%20|%20Django%20%26%20REST%20API%20Enthusiast&descAlignY=65&descAlign=50&animation=fadeIn)
+
 <h1 align="center">Hi there, I'm Fardin 👋</h1>
 <h3 align="center">💻 Backend Developer | Django & REST API Enthusiast</h3>
 
