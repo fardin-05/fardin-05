@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/NCbWpWi.png" alt="Fardin Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://i.imgur.com/NCbWpWi.png" alt="Fardin Banner" width="60%" style="border-radius: 10px;">
 </p>
 
 <h1 align="center">Hi there, I'm Fardin 👋</h1>
