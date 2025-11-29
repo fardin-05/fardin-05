@@ -45,7 +45,6 @@ My main tech stack revolves around **Python, Django, and JavaScript** — crafti
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fardin-05&layout=compact&theme=tokyonight)
 
-![Modern Card](https://github-readme-stats-godkingjay.vercel.app/api?username=fardin-05&show_icons=true&theme=transparent)
 
 
 ---
