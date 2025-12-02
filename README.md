@@ -42,9 +42,9 @@ My main tech stack revolves around **Python, Django, and JavaScript** — crafti
 ### 📊 GitHub Stats
 
 ![Fardin’s GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fardin-05&show_icons=true&hide_border=true&border_radius=20&bg_color=000000&title_color=FFD700&text_color=D4AF37&icon_color=FFD700&include_all_commits=True)
-<!--
+
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fardin-05&layout=compact&hide_border=true&border_radius=20&bg_color=000000&title_color=FFD700&text_color=D4AF37)
--->
+
 ---
 
 ### 🏆 GitHub Trophies
