@@ -49,6 +49,7 @@ My main tech stack revolves around **Python, Django, and JavaScript** — crafti
 
 
 
+
 ---
 
 ### 🏆 GitHub Trophies
