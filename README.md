@@ -49,7 +49,8 @@ My main tech stack revolves around **Python, Django, and JavaScript** — crafti
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fardin-05&theme=onedark&margin-w=5&margin-h=5&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fardin-05&theme=onedark&row=1&no-frame=true&no-bg=true)]()
+
 
 
 
