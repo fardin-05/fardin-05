@@ -15,7 +15,8 @@ My main tech stack revolves around **Python, Django, and JavaScript** — crafti
 
 
 
-- 💼 Portfolio : [🌐 Visit My Portfolio](https://fardin-05.github.io/) 
+- 💼 Portfolio : [![Visit My Portfolio](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://fardin-05.github.io/)](https://fardin-05.github.io/)
+
 
 ---
 
