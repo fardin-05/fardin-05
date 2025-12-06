@@ -70,7 +70,8 @@ My main tech stack revolves around **Python, Django, and JavaScript** — crafti
 
 ---
 
-⭐️ From [fardin-05](https://github.com/fardin-05)
+⭐️ From <br>
+ [![Fardin-05](https://img.shields.io/badge/Fardin--05-F5C518?style=for-the-badge&logo=github&logoColor=000)](https://github.com/fardin-05)
 
 
 <!--
