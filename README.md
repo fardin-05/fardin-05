@@ -1,6 +1,7 @@
 
-<h1 align="center">Hey 👋, I'm Fardin</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=header&text=Hey%20👋%20I'm%20Fardin%20Khan&fontSize=35&fontColor=ffffff"/>
+</p>
 <h3 align="center">
 🚀 Python & Django Backend Developer
 </h3>
@@ -39,7 +40,7 @@
 </a>
 
 <a href="https://www.facebook.com/fardin.nobita" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="50"/>
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50"/>
 </a>
 
 <a href="mailto:fardinazim7@gmail.com">
@@ -64,13 +65,39 @@
 
 ---
 
-## 🚀 Tech Stack
+# 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,tailwind,mysql,sqlite,git,github,c,java,vscode" />
-</p>
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=python,django" height="55" />
 
 ---
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" height="55" />
+
+---
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" height="55" />
+
+---
+
+### 💡 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,c,java" height="55" />
+
+---
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55" />
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="55" />
+
+</div>
+
+
+
+---
+
 
 <div align="center">
 
@@ -83,22 +110,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 🐍 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/fardin-05/fardin-05/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/fardin-05/fardin-05/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/fardin-05/fardin-05/output/github-snake.svg"/>
-</picture>
-
-</div>
 
 ---
 
