@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+%26+DRF+Developer;REST+API+Enthusiast;Python+Lover;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+%26+DRF+Developer;REST+API+Enthusiast;Python+Programmer;Always+Learning+New+Things" />
 </p>
 
 ---
