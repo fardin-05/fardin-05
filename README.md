@@ -2,11 +2,11 @@
 <h1 align="center">Hey 👋, I'm Fardin</h1>
 
 <h3 align="center">
-🚀 Python & Django Developer
+🚀 Python & Django Backend Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+REST+API+Enthusiast;Python+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+%26+DRF+Developer;REST+API+Enthusiast;Python+Lover;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 - 🔥 Passionate Backend Developer from Bangladesh 🇧🇩
 - 🌱 Currently mastering **Django Backend Development**
-- 💡 Love building APIs & scalable web apps
+- 💡 Love building scalable APIs & modern web apps
 - 💬 Ask me about:
   - Django
   - DRF
@@ -26,21 +26,39 @@
 - ⚡ Fun Fact:
   `I debug more than I sleep 😅`
 
+<br><br>
+
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/fardin-khan-7726062a9/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="https://www.facebook.com/fardin.nobita" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+<img src="https://skillicons.dev/icons?i=facebook" height="50"/>
 </a>
 
 <a href="mailto:fardinazim7@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://wa.me/8801401228402">
+<img src="https://skillicons.dev/icons?i=discord" height="50"/>
+</a>
+
+</p>
+
+---
+
+## 💼 Portfolio
+
+<p align="center">
+<a href="https://fardin-05.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=yellow"/>
 </a>
 </p>
 
@@ -49,7 +67,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,tailwind,mysql,sqlite,git,c,java,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,tailwind,mysql,sqlite,git,github,c,java,vscode" />
 </p>
 
 ---
@@ -58,9 +76,9 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fardin-05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fardin-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-05&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-05&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -69,7 +87,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=fardin-05&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=fardin-05&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -77,15 +95,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fardin-05&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/fardin-05/fardin-05/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fardin-05&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
@@ -98,8 +108,10 @@
 
 ---
 
+## 👀 Profile Views
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fardin-05&label=Profile%20Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=fardin-05&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
