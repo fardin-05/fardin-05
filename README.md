@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Fardin</h1>
 
 <h3 align="center">
-🚀 Backend Developer | Django & DRF Enthusiast
+🚀 Python & Django Developer
 </h3>
 
 <p align="center">
