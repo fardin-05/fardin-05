@@ -72,23 +72,33 @@
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fardin-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fardin-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=fardin-05&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=fardin-05&theme=tokyonight&hide_border=true"/>
-</p>
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/fardin-05/fardin-05/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/fardin-05/fardin-05/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/fardin-05/fardin-05/output/github-snake.svg"/>
+</picture>
+
+</div>
 
 ---
 
@@ -119,4 +129,4 @@
 <h3 align="center">
 ⭐ From <a href="https://fardin-05.github.io/">Fardin-05</a>
 </h3>
-```
+
