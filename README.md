@@ -117,6 +117,6 @@
 ---
 
 <h3 align="center">
-⭐ From <a href="https://github.com/fardin-05">Fardin-05</a>
+⭐ From <a href="https://fardin-05.github.io/">Fardin-05</a>
 </h3>
 ```
