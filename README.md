@@ -1,90 +1,110 @@
-<h1 align="center">Hi there, I'm Fardin 👋</h1>
-<h3 align="center">💻 Backend Developer | Django & REST API Enthusiast</h3>
+```md
+<h1 align="center">Hey 👋, I'm Fardin</h1>
+
+<h3 align="center">
+🚀 Backend Developer | Django & DRF Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F5C518&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+REST+API+Lover;Python+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
-### 🚀 About Me
-I'm a passionate **backend developer** from Bangladesh 🇧🇩 who loves to build scalable and efficient server-side applications.  
-My main tech stack revolves around **Python, Django, and JavaScript** — crafting secure and modern web apps with ease.  
+## 🧑‍💻 About Me
 
-- 🌱 Currently learning  **Django Back-end Development** Properly
-- 💬 Ask me about **Django, DRF, REST API, Python**
-- ⚡ Fun fact: I debug more than I sleep 😅
-- 📫 How to reach me: <br>
-[![Email](https://img.shields.io/badge/Email-fardinazim7%40gmail.com-F5C518?style=for-the-badge)](mailto:fardinazim7@gmail.com)
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-
-
-- 💼 Portfolio : <br>
-  [![Visit My Portfolio](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://fardin-05.github.io/)](https://fardin-05.github.io/)
-
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardin-khan-7726062a9/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fardin.nobita)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801401228402)
-
+- 🔥 Passionate Backend Developer from Bangladesh 🇧🇩
+- 🌱 Currently mastering **Django Backend Development**
+- 💡 Love building APIs & scalable web apps
+- 💬 Ask me about:
+  - Django
+  - DRF
+  - REST API
+  - Python
+- ⚡ Fun Fact:
+  `I debug more than I sleep 😅`
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/REST%20API-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=java&logoColor=white)
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/fardin-khan-7726062a9/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://www.facebook.com/fardin.nobita" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+</a>
+
+<a href="mailto:fardinazim7@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Tech Stack
 
-![Fardin’s GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fardin-05&show_icons=true&hide_border=true&border_radius=20&bg_color=000000&title_color=FFD700&text_color=D4AF37&icon_color=FFD700&include_all_commits=True)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fardin-05&layout=compact&hide_border=true&border_radius=20&bg_color=000000&title_color=FFD700&text_color=D4AF37)
-
----
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-readme-trophy.vercel.app/?username=fardin-05&theme=onedark&no-bg=true&no-frame=true)
-
-
-
-
-
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,tailwind,mysql,sqlite,git,c,java,vscode" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fardin-05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-05&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
 
 ---
 
-⭐️ From <br>
- [![Fardin-05](https://img.shields.io/badge/Fardin--05-F5C518?style=for-the-badge&logo=github&logoColor=000)](https://github.com/fardin-05)
+## 🔥 GitHub Streak
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=fardin-05&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
 
-<!--
-**fardin-05/fardin-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fardin-05&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/fardin-05/fardin-05/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ✨ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=fardin-05&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ From <a href="https://github.com/fardin-05">Fardin-05</a>
+</h3>
+```
